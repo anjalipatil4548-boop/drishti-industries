@@ -1,0 +1,959 @@
+{
+	"source": "__assets/drones.glb",
+	"drones": [
+		{
+			"name": "Drone_01",
+			"file": "/models/drone-01.glb?v=4a760a855c",
+			"ao": "/models/drone-01-ao.webp?v=c4f09cb85e",
+			"ink": "/models/drone-01-ink.webp?v=7a625e91be",
+			"triangles": {
+				"source": 86601,
+				"output": 34639
+			},
+			"primitives": [
+				{
+					"material": "DRONE • Satin Gray Alloy",
+					"baseColor": [
+						1,
+						1,
+						1
+					],
+					"metallic": 1,
+					"roughness": 1,
+					"decal": true,
+					"triangles": 15605,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Dark Titanium",
+					"baseColor": [
+						0.03240000084042549,
+						0.03744000196456909,
+						0.046799998730421066
+					],
+					"metallic": 0.44999998807907104,
+					"roughness": 0.6800000071525574,
+					"decal": false,
+					"triangles": 1938,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Satin Aluminum",
+					"baseColor": [
+						0.30239999294281006,
+						0.3240000009536743,
+						0.35280001163482666
+					],
+					"metallic": 0.6499999761581421,
+					"roughness": 0.6200000047683716,
+					"decal": false,
+					"triangles": 6750,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Smoked Lens",
+					"baseColor": [
+						0.015,
+						0.015,
+						0.02
+					],
+					"metallic": 0,
+					"roughness": 0.05,
+					"decal": false,
+					"triangles": 14,
+					"lens": true
+				},
+				{
+					"material": "DRONE • Dark Titanium",
+					"baseColor": [
+						0.03240000084042549,
+						0.03744000196456909,
+						0.046799998730421066
+					],
+					"metallic": 0.44999998807907104,
+					"roughness": 0.6800000071525574,
+					"decal": false,
+					"triangles": 740,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Graphite Rotors",
+					"baseColor": [
+						0.018000001087784767,
+						0.020879998803138733,
+						0.025200000032782555
+					],
+					"metallic": 0.05000000074505806,
+					"roughness": 0.7799999713897705,
+					"decal": false,
+					"triangles": 2900,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Dark Titanium",
+					"baseColor": [
+						0.03240000084042549,
+						0.03744000196456909,
+						0.046799998730421066
+					],
+					"metallic": 0.44999998807907104,
+					"roughness": 0.6800000071525574,
+					"decal": false,
+					"triangles": 1116,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Graphite Rotors",
+					"baseColor": [
+						0.018000001087784767,
+						0.020879998803138733,
+						0.025200000032782555
+					],
+					"metallic": 0.05000000074505806,
+					"roughness": 0.7799999713897705,
+					"decal": false,
+					"triangles": 5576,
+					"lens": false
+				}
+			],
+			"rotors": [
+				{
+					"node": "rotor-0",
+					"pivot": [
+						-0.517543,
+						-0.054316,
+						0.208388
+					],
+					"axis": [
+						0,
+						1,
+						0
+					],
+					"dir": -1
+				},
+				{
+					"node": "rotor-1",
+					"pivot": [
+						0.517499,
+						-0.054316,
+						0.208388
+					],
+					"axis": [
+						0,
+						1,
+						0
+					],
+					"dir": 1
+				}
+			],
+			"gimbal": []
+		},
+		{
+			"name": "Drone_02",
+			"file": "/models/drone-02.glb?v=ae535b4b48",
+			"ao": "/models/drone-02-ao.webp?v=2143620441",
+			"ink": "/models/drone-02-ink.webp?v=2a296e523e",
+			"triangles": {
+				"source": 104442,
+				"output": 41804
+			},
+			"primitives": [
+				{
+					"material": "DRONE • Satin Aluminum",
+					"baseColor": [
+						0.30239999294281006,
+						0.3240000009536743,
+						0.35280001163482666
+					],
+					"metallic": 0.6499999761581421,
+					"roughness": 0.6200000047683716,
+					"decal": false,
+					"triangles": 6280,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Dark Titanium",
+					"baseColor": [
+						0.03240000084042549,
+						0.03744000196456909,
+						0.046799998730421066
+					],
+					"metallic": 0.44999998807907104,
+					"roughness": 0.6800000071525574,
+					"decal": false,
+					"triangles": 3200,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Satin Gray Alloy",
+					"baseColor": [
+						1,
+						1,
+						1
+					],
+					"metallic": 1,
+					"roughness": 1,
+					"decal": true,
+					"triangles": 24554,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Dark Titanium",
+					"baseColor": [
+						0.03240000084042549,
+						0.03744000196456909,
+						0.046799998730421066
+					],
+					"metallic": 0.44999998807907104,
+					"roughness": 0.6800000071525574,
+					"decal": false,
+					"triangles": 24,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Satin Aluminum",
+					"baseColor": [
+						0.30239999294281006,
+						0.3240000009536743,
+						0.35280001163482666
+					],
+					"metallic": 0.6499999761581421,
+					"roughness": 0.6200000047683716,
+					"decal": false,
+					"triangles": 1286,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Satin Gray Alloy — Surface Detail",
+					"baseColor": [
+						1,
+						1,
+						1
+					],
+					"metallic": 1,
+					"roughness": 1,
+					"decal": true,
+					"triangles": 880,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Satin Aluminum",
+					"baseColor": [
+						0.30239999294281006,
+						0.3240000009536743,
+						0.35280001163482666
+					],
+					"metallic": 0.6499999761581421,
+					"roughness": 0.6200000047683716,
+					"decal": false,
+					"triangles": 118,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Satin Gray Alloy",
+					"baseColor": [
+						1,
+						1,
+						1
+					],
+					"metallic": 1,
+					"roughness": 1,
+					"decal": true,
+					"triangles": 592,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Satin Aluminum",
+					"baseColor": [
+						0.30239999294281006,
+						0.3240000009536743,
+						0.35280001163482666
+					],
+					"metallic": 0.6499999761581421,
+					"roughness": 0.6200000047683716,
+					"decal": false,
+					"triangles": 128,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Satin Gray Alloy",
+					"baseColor": [
+						1,
+						1,
+						1
+					],
+					"metallic": 1,
+					"roughness": 1,
+					"decal": true,
+					"triangles": 618,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Satin Aluminum",
+					"baseColor": [
+						0.30239999294281006,
+						0.3240000009536743,
+						0.35280001163482666
+					],
+					"metallic": 0.6499999761581421,
+					"roughness": 0.6200000047683716,
+					"decal": false,
+					"triangles": 128,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Satin Gray Alloy",
+					"baseColor": [
+						1,
+						1,
+						1
+					],
+					"metallic": 1,
+					"roughness": 1,
+					"decal": true,
+					"triangles": 652,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Satin Aluminum",
+					"baseColor": [
+						0.30239999294281006,
+						0.3240000009536743,
+						0.35280001163482666
+					],
+					"metallic": 0.6499999761581421,
+					"roughness": 0.6200000047683716,
+					"decal": false,
+					"triangles": 132,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Satin Gray Alloy",
+					"baseColor": [
+						1,
+						1,
+						1
+					],
+					"metallic": 1,
+					"roughness": 1,
+					"decal": true,
+					"triangles": 732,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Satin Aluminum",
+					"baseColor": [
+						0.30239999294281006,
+						0.3240000009536743,
+						0.35280001163482666
+					],
+					"metallic": 0.6499999761581421,
+					"roughness": 0.6200000047683716,
+					"decal": false,
+					"triangles": 366,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Satin Gray Alloy",
+					"baseColor": [
+						1,
+						1,
+						1
+					],
+					"metallic": 1,
+					"roughness": 1,
+					"decal": true,
+					"triangles": 456,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Satin Aluminum",
+					"baseColor": [
+						0.30239999294281006,
+						0.3240000009536743,
+						0.35280001163482666
+					],
+					"metallic": 0.6499999761581421,
+					"roughness": 0.6200000047683716,
+					"decal": false,
+					"triangles": 1144,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Dark Titanium",
+					"baseColor": [
+						0.03240000084042549,
+						0.03744000196456909,
+						0.046799998730421066
+					],
+					"metallic": 0.44999998807907104,
+					"roughness": 0.6800000071525574,
+					"decal": false,
+					"triangles": 496,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Smoked Lens",
+					"baseColor": [
+						0.008999999612569809,
+						0.014000000432133675,
+						0.019999999552965164
+					],
+					"metallic": 0,
+					"roughness": 0.30000001192092896,
+					"decal": false,
+					"triangles": 18,
+					"lens": true
+				}
+			],
+			"rotors": [
+				{
+					"node": "rotor-0",
+					"pivot": [
+						-0.494149,
+						0.247828,
+						-0.384915
+					],
+					"axis": [
+						0,
+						1,
+						0
+					],
+					"dir": -1
+				},
+				{
+					"node": "rotor-1",
+					"pivot": [
+						0.273385,
+						0.247279,
+						-0.384856
+					],
+					"axis": [
+						0,
+						1,
+						0
+					],
+					"dir": 1
+				},
+				{
+					"node": "rotor-2",
+					"pivot": [
+						-0.494149,
+						0.247828,
+						0.388771
+					],
+					"axis": [
+						0,
+						1,
+						0
+					],
+					"dir": 1
+				},
+				{
+					"node": "rotor-3",
+					"pivot": [
+						0.273124,
+						0.247828,
+						0.388771
+					],
+					"axis": [
+						0,
+						1,
+						0
+					],
+					"dir": -1
+				}
+			],
+			"gimbal": [
+				{
+					"node": "gimbal-yaw",
+					"parent": null,
+					"pivot": [
+						-0.102964,
+						0.021332,
+						-0.099936
+					],
+					"axis": [
+						0,
+						1,
+						0
+					],
+					"min": -0.6108652381980153,
+					"max": 0.6108652381980153
+				},
+				{
+					"node": "gimbal-pitch",
+					"parent": "gimbal-yaw",
+					"pivot": [
+						-0.108289,
+						-0.029433,
+						-0.107579
+					],
+					"axis": [
+						-1,
+						0,
+						0
+					],
+					"min": -0.17453292519943295,
+					"max": 0.7853981633974483
+				}
+			]
+		},
+		{
+			"name": "Drone_03",
+			"file": "/models/drone-03.glb?v=e10abe5389",
+			"ao": "/models/drone-03-ao.webp?v=a21c474f6c",
+			"ink": "/models/drone-03-ink.webp?v=8f8a5be83e",
+			"triangles": {
+				"source": 275388,
+				"output": 49946
+			},
+			"primitives": [
+				{
+					"material": "DRONE • Graphite Rotors",
+					"baseColor": [
+						0.018000001087784767,
+						0.020879998803138733,
+						0.025200000032782555
+					],
+					"metallic": 0.05000000074505806,
+					"roughness": 0.7799999713897705,
+					"decal": false,
+					"triangles": 8722,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Satin Gray Alloy",
+					"baseColor": [
+						1,
+						1,
+						1
+					],
+					"metallic": 1,
+					"roughness": 1,
+					"decal": true,
+					"triangles": 20326,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Graphite Rotors",
+					"baseColor": [
+						0.018000001087784767,
+						0.020879998803138733,
+						0.025200000032782555
+					],
+					"metallic": 0.05000000074505806,
+					"roughness": 0.7799999713897705,
+					"decal": false,
+					"triangles": 2662,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Satin Aluminum",
+					"baseColor": [
+						0.30239999294281006,
+						0.3240000009536743,
+						0.35280001163482666
+					],
+					"metallic": 0.6499999761581421,
+					"roughness": 0.6200000047683716,
+					"decal": false,
+					"triangles": 1114,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Satin Gray Alloy",
+					"baseColor": [
+						1,
+						1,
+						1
+					],
+					"metallic": 1,
+					"roughness": 1,
+					"decal": true,
+					"triangles": 330,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Graphite Rotors",
+					"baseColor": [
+						0.018000001087784767,
+						0.020879998803138733,
+						0.025200000032782555
+					],
+					"metallic": 0.05000000074505806,
+					"roughness": 0.7799999713897705,
+					"decal": false,
+					"triangles": 3090,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Satin Aluminum",
+					"baseColor": [
+						0.30239999294281006,
+						0.3240000009536743,
+						0.35280001163482666
+					],
+					"metallic": 0.6499999761581421,
+					"roughness": 0.6200000047683716,
+					"decal": false,
+					"triangles": 1308,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Satin Gray Alloy",
+					"baseColor": [
+						1,
+						1,
+						1
+					],
+					"metallic": 1,
+					"roughness": 1,
+					"decal": true,
+					"triangles": 326,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Graphite Rotors",
+					"baseColor": [
+						0.018000001087784767,
+						0.020879998803138733,
+						0.025200000032782555
+					],
+					"metallic": 0.05000000074505806,
+					"roughness": 0.7799999713897705,
+					"decal": false,
+					"triangles": 2726,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Satin Aluminum",
+					"baseColor": [
+						0.30239999294281006,
+						0.3240000009536743,
+						0.35280001163482666
+					],
+					"metallic": 0.6499999761581421,
+					"roughness": 0.6200000047683716,
+					"decal": false,
+					"triangles": 1322,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Satin Gray Alloy",
+					"baseColor": [
+						1,
+						1,
+						1
+					],
+					"metallic": 1,
+					"roughness": 1,
+					"decal": true,
+					"triangles": 356,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Graphite Rotors",
+					"baseColor": [
+						0.018000001087784767,
+						0.020879998803138733,
+						0.025200000032782555
+					],
+					"metallic": 0.05000000074505806,
+					"roughness": 0.7799999713897705,
+					"decal": false,
+					"triangles": 3882,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Satin Aluminum",
+					"baseColor": [
+						0.30239999294281006,
+						0.3240000009536743,
+						0.35280001163482666
+					],
+					"metallic": 0.6499999761581421,
+					"roughness": 0.6200000047683716,
+					"decal": false,
+					"triangles": 1526,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Satin Gray Alloy",
+					"baseColor": [
+						1,
+						1,
+						1
+					],
+					"metallic": 1,
+					"roughness": 1,
+					"decal": true,
+					"triangles": 364,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Graphite Rotors",
+					"baseColor": [
+						0.018000001087784767,
+						0.020879998803138733,
+						0.025200000032782555
+					],
+					"metallic": 0.05000000074505806,
+					"roughness": 0.7799999713897705,
+					"decal": false,
+					"triangles": 1306,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Smoked Lens",
+					"baseColor": [
+						0.008999999612569809,
+						0.014000000432133675,
+						0.019999999552965164
+					],
+					"metallic": 0,
+					"roughness": 0.30000001192092896,
+					"decal": false,
+					"triangles": 586,
+					"lens": true
+				}
+			],
+			"rotors": [
+				{
+					"node": "rotor-0",
+					"pivot": [
+						-0.511393,
+						0.0721,
+						-0.397918
+					],
+					"axis": [
+						0,
+						1,
+						0
+					],
+					"dir": 1
+				},
+				{
+					"node": "rotor-1",
+					"pivot": [
+						0.509272,
+						0.0721,
+						-0.397918
+					],
+					"axis": [
+						0,
+						1,
+						0
+					],
+					"dir": -1
+				},
+				{
+					"node": "rotor-2",
+					"pivot": [
+						-0.470585,
+						-0.010478,
+						0.333566
+					],
+					"axis": [
+						0,
+						1,
+						0
+					],
+					"dir": 1
+				},
+				{
+					"node": "rotor-3",
+					"pivot": [
+						0.470586,
+						-0.010478,
+						0.333566
+					],
+					"axis": [
+						0,
+						1,
+						0
+					],
+					"dir": -1
+				}
+			],
+			"gimbal": [
+				{
+					"node": "gimbal-pitch",
+					"parent": null,
+					"pivot": [
+						0.000049,
+						-0.019558,
+						-0.498462
+					],
+					"axis": [
+						-1,
+						0,
+						0
+					],
+					"min": 0,
+					"max": 0.7853981633974483
+				}
+			]
+		},
+		{
+			"name": "Drone_04",
+			"file": "/models/drone-04.glb?v=9700e6c957",
+			"ao": "/models/drone-04-ao.webp?v=c64e07a743",
+			"ink": "/models/drone-04-ink.webp?v=8733db250a",
+			"triangles": {
+				"source": 80153,
+				"output": 40163
+			},
+			"primitives": [
+				{
+					"material": "DRONE • Dark Titanium",
+					"baseColor": [
+						0.03240000084042549,
+						0.03744000196456909,
+						0.046799998730421066
+					],
+					"metallic": 0.44999998807907104,
+					"roughness": 0.6800000071525574,
+					"decal": false,
+					"triangles": 345,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Satin Gray Alloy",
+					"baseColor": [
+						1,
+						1,
+						1
+					],
+					"metallic": 1,
+					"roughness": 1,
+					"decal": true,
+					"triangles": 32054,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Smoked Lens",
+					"baseColor": [
+						0.008999999612569809,
+						0.014000000432133675,
+						0.019999999552965164
+					],
+					"metallic": 0,
+					"roughness": 0.30000001192092896,
+					"decal": false,
+					"triangles": 87,
+					"lens": true
+				},
+				{
+					"material": "DRONE • Camera Bay",
+					"baseColor": [
+						0.02,
+						0.02,
+						0.022
+					],
+					"metallic": 0,
+					"roughness": 0.5,
+					"decal": false,
+					"triangles": 302,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Dark Titanium",
+					"baseColor": [
+						0.03240000084042549,
+						0.03744000196456909,
+						0.046799998730421066
+					],
+					"metallic": 0.44999998807907104,
+					"roughness": 0.6800000071525574,
+					"decal": false,
+					"triangles": 92,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Satin Gray Alloy",
+					"baseColor": [
+						1,
+						1,
+						1
+					],
+					"metallic": 1,
+					"roughness": 1,
+					"decal": true,
+					"triangles": 275,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Graphite Rotors",
+					"baseColor": [
+						0.018000001087784767,
+						0.020879998803138733,
+						0.025200000032782555
+					],
+					"metallic": 0.05000000074505806,
+					"roughness": 0.7799999713897705,
+					"decal": false,
+					"triangles": 3349,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Dark Titanium",
+					"baseColor": [
+						0.03240000084042549,
+						0.03744000196456909,
+						0.046799998730421066
+					],
+					"metallic": 0.44999998807907104,
+					"roughness": 0.6800000071525574,
+					"decal": false,
+					"triangles": 163,
+					"lens": false
+				},
+				{
+					"material": "DRONE • Graphite Rotors",
+					"baseColor": [
+						0.018000001087784767,
+						0.020879998803138733,
+						0.025200000032782555
+					],
+					"metallic": 0.05000000074505806,
+					"roughness": 0.7799999713897705,
+					"decal": false,
+					"triangles": 3496,
+					"lens": false
+				}
+			],
+			"rotors": [
+				{
+					"node": "rotor-0",
+					"pivot": [
+						-0.000048,
+						0.202809,
+						-0.308821
+					],
+					"axis": [
+						0,
+						1,
+						0
+					],
+					"dir": 1
+				},
+				{
+					"node": "rotor-1",
+					"pivot": [
+						0.028572,
+						0.063415,
+						0.686115
+					],
+					"axis": [
+						1,
+						0,
+						0
+					],
+					"dir": 1
+				}
+			],
+			"gimbal": []
+		}
+	]
+}
