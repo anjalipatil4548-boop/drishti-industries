@@ -1,0 +1,14 @@
+{
+  "name": "Drishti Industries",
+  "short_name": "Drishti",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ],
+  "theme_color": "#0d0f0e",
+  "background_color": "#0d0f0e",
+  "display": "standalone"
+}
